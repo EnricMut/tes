@@ -5,6 +5,8 @@ namespace App\Http\Controllers;
 use App\Models\Contest;
 use Illuminate\Http\Request;
 
+
+//a
 class ConcursoController extends Controller
 {
     public function mostrarConcursos()
